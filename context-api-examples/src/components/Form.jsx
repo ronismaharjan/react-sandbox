@@ -12,8 +12,6 @@ export default function Form(){
 
     function handleAdd(){
         setUsers([...users,user])
-        console.log(users);
-
     }
 
     return (

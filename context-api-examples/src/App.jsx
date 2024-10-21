@@ -6,8 +6,9 @@ export default function App(){
     const [users, setUsers] = useState([])
     return(
         <UserContextProvider value = {{users, setUsers}}>
-            <Form/>
-            <Display/>
+
+        <Form/>
+        <Display/>
 
         </UserContextProvider>
     );
