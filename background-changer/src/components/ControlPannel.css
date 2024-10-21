@@ -1,0 +1,14 @@
+.control-pannel{
+    background-color:white; 
+    padding:2em;
+    display:flex;
+    gap:2rem;
+    border-radius:20px;
+}
+
+button{
+    font:inherit;
+    padding:0.5em 2em;
+
+
+}

@@ -1,0 +1,25 @@
+.whiteboard{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:flex-end; 
+    padding:2em;
+}
+
+.yellow{
+    background-color:yellow;
+}
+
+.black{
+    background-color:black;
+}
+
+.blue{
+    background-color:blue;
+}
+
+.red{
+    background-color:red;
+}
+
+

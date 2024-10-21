@@ -1,0 +1,13 @@
+.yellow{
+    background-color:"yellow"
+}
+.red{
+    background-color:"red"
+}
+.blue{
+    background-color:"blue"
+}
+.whiteboard{
+    min-height:100vh;
+
+}
