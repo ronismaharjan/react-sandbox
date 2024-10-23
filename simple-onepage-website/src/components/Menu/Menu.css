@@ -1,0 +1,6 @@
+.navbar__lists{
+    display:flex;
+    gap:2rem;
+    font-weight:500;
+
+}

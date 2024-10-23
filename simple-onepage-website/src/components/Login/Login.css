@@ -1,0 +1,10 @@
+.navbar__button{
+    padding:0.3em 1.8em;
+    color:white;
+    background-color:red;
+}
+
+.navbar__button:hover{
+    background-color:firebrick;
+
+}

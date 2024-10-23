@@ -1,0 +1,46 @@
+.infosection{
+    flex:1;
+}
+
+.infosection__desc h1{
+    font-size:5rem; 
+    line-height:6rem;
+    margin-bottom:0.2em;
+
+}
+
+.infosection__desc p{
+    color:gray;
+    width:40ch;
+    margin-bottom:1em;
+    font-weight:500;
+
+}
+
+.infosection__button{
+    display:flex;
+    gap:2em;
+    margin-bottom:1em;
+}
+
+.infosection__button button{
+    padding:0.3em 1.6em;
+
+}
+
+.infosection__button button:first-child{
+    background-color:red;
+    color:white;
+    border:1px solid gray;
+    transition: background-color 0.2s linear;
+}
+
+.infosection__button button:first-child:hover{
+    background-color:firebrick;
+}
+
+.infosection__button button:first-child:active{
+    background-color:red;
+}
+
+
