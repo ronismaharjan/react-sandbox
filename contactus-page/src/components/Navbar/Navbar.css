@@ -1,0 +1,21 @@
+.navbar{
+    padding:0.4em 1em;
+    min-height:8vh;
+    border-bottom:1px solid ghostwhite;
+    box-shadow:0px 2px 10px 1px gainsboro;
+    background-color:white;
+    display:flex;
+    justify-content:flex-end;
+}
+
+.navbar__menu{
+    display:flex;
+    align-items:center;
+    justify-content:flex-end;
+    gap:2rem;
+}
+
+.navbar__link{
+    color:black;
+
+}

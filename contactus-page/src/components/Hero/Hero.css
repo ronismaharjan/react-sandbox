@@ -1,0 +1,25 @@
+.hero{
+    margin-top:2em;
+
+}
+.hero__desc{
+    margin-bottom:2em;
+
+}
+.hero__desc h1{
+    font-size:3rem;
+}
+
+.hero__desc p{
+    color:gray;
+    max-width:95ch;
+}
+.hero__form-section{
+    display:flex;
+
+}    
+
+.hero__image{
+    flex:1;
+
+}

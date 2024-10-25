@@ -1,0 +1,21 @@
+.contact__section{
+    flex:1;
+
+}
+.contact__options{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:1em;
+}
+
+form{
+    display:flex;
+    flex-direction:column;
+    padding:0.8em 1.2em;
+    gap:0.5rem;
+}
+form textarea{
+resize:none;
+
+}
+

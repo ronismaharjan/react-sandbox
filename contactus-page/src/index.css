@@ -1,0 +1,46 @@
+/*---------------------------------*/
+/*       Global Reset              */
+/*---------------------------------*/
+
+/*importing google font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+/*Reset Margin Padding & BorderBox*/
+*,*::before,*::after{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+/*setting up body */
+body{
+    font-family:Poppins;
+    min-height:100vh;
+}
+
+
+/*Making form element easier to work with*/
+button,input{
+    font:inherit;
+    cursor:pointer;
+    padding:0.3em;
+}
+
+/*Reseting anchor tag*/
+a{
+    font:inherit;
+    text-decoration:none;
+}
+
+/*Making images easier to work with*/
+img,figure{
+    display:block;
+    max-width:100%;
+}
+
+/*Resetting Lists*/
+li{
+    list-style:none;
+
+}
+
