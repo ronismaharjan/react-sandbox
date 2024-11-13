@@ -14,9 +14,17 @@ Welcome to the React Sandbox! This repository contains a collection of various R
 - Collection of diverse React projects
 - Demonstrates various React concepts and best practices
 - Easy to run and explore individual projects
+  
+<details>
+  <summary><h2>Projects</h2></summary>
+  
+  - ContextAPI
+  - useReducer Hook
+  - useEffect Hook
+  - useRef Hook
+</details>
 
-## Projects
-- context api
+
 
 ## Installation
 
